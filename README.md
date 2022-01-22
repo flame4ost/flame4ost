@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**flame4ost/flame4ost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -12,4 +11,4 @@ Here are some ideas to get you started:
 💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 ✉️  You can shoot me an email at huanmastak@gmail.com! I'll try to respond as soon as I can.
 📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
--->
+
