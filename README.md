@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Software engineering at the University of Cherkasy.\
+🎓 &nbsp;I'm currently studying Software engineering at the University of Cherkasy of Technology.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, Android Development and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and develop apps on Android (Kotlin and Java) as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
